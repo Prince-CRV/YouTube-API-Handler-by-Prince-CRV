@@ -462,7 +462,7 @@ if __name__ == "__main__":
     automatizacion_completa = FullAutomationTask(PLAYLIST_ID, DESC)
 
     # 5. Ejecutar la tarea deseada
-    # bot.run(listar_videos)
+    bot.run(listar_videos)
     # bot.run(probar_videos_relacionados)
     # bot.run(limpiar_playlist)
     # bot.run(añadir_shorts_publicos)
